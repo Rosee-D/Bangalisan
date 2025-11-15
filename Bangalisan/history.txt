@@ -1,0 +1,76 @@
+ 1  ls
+    2  ls - al
+    3  ls -al
+    4  cd documents
+    5  ls
+    6  mkdir Bangalisan
+    7  cd Bangalisan
+    8  ls
+    9  cd ..
+   10  touch readme.md
+   11  ls
+   12  start readme.md
+   13  touch test.txt
+   14  ls
+   15  rm test.txt
+   16  ls
+   17  start readme.md
+   18  git config --global user.name "yeppy"
+   19  git config --global user.name
+   20  git config --global user.email
+   21  git config --global user.email "donellrosenbangalisan@gmail.com"
+   22  git config --global user.email
+   23  git init
+   24  cd .git
+   25  cd ..
+   26  ls
+   27  git status
+   28  git add .
+   29  git add nyek
+   30  git add Bangalisan
+   31  git add .
+   32  git add Bangalisan
+   33  ls
+   34  cd documents
+   35  git add .
+   36  git status
+   37  ls
+   38  cd Bangalisan
+   39  git init
+   40  git add .
+   41  git status
+   42  git status
+   43  git add .
+   44  git status
+   45  git add README.md
+   46  git add readme.md
+   47  echo "# Bangalisan" >> readme.md
+   48  git init
+   49  git add readme.md
+   50  git commit -m "first commit"
+   51  git branch -M main
+   52  git remote add origin
+   53  git remote add origin https://github.com/Rosee-D/Bangalisan.git
+   54  git push -u origin main
+   55  git push
+   56  git remote add origin https://github.com/Rosee-D/Bangalisan.git
+   57  git add .
+   58  git commit -m "first commit"
+   59  git branch -M main
+   60  git remote add origin https://github.com/Rosee-D/Bangalisan.git
+   61  git push
+   62  git push -u origin main
+   63  ls
+   64  start readme.md
+   65  git add .
+   66  git status
+   67  git add Bangalisan
+   68  git commit
+   69  git commit -m "second commit"
+   70  git branch -M main
+   71  git add .
+   72  git status
+   73  git push
+   74  touch history.txt
+   75  start history.txt
+   76  history
